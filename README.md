@@ -1,7 +1,7 @@
 # Guide to The Grand Empty
 
 This is the guidebook for The Grand Empty, both to its world and to the community that roleplays in it via Discord.
-The guidebook itself is hosted through Github Pages at https://grandempty.github.io/guidebook/; what you see here is the source repository that generates that site. This guidebook is managed through Github to facilitate collaboration. All are encouraged to discuss and propose changes to this guidebook via Issues and Pull Requests; even if you decide that this community isn't for you, you are still welcome to take advantage of our open-source license to fork this repository and modify it to suit your own needs.
+The guidebook itself is hosted through Github Pages at https://the-grand-empty.github.io/guidebook/; what you see here is the source repository that generates that site. This guidebook is managed through Github to facilitate collaboration. All are encouraged to discuss and propose changes to this guidebook via Issues and Pull Requests; even if you decide that this community isn't for you, you are still welcome to take advantage of our open-source license to fork this repository and modify it to suit your own needs.
 
 The text of this guidebook is released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Technical components related to the guidebook's theme and other community infrastructure are released under the [MIT License](https://opensource.org/license/MIT).
 

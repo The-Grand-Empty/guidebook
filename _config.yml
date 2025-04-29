@@ -1,6 +1,6 @@
 theme: just-the-docs
 color_scheme: dark
-url: https://grandempty.github.io/guidebook/
+url: https://the-grand-empty.github.io/guidebook/
 plugins:
   - jekyll-default-layout
   - jekyll-remote-theme
@@ -26,17 +26,19 @@ callouts:
 logo: /assets/images/logo-dark-640x128.png
 favicon_ico: /assets/images/favicon-48x48.png
 
-title: Guide to The Grand Empty
+title: The Grand Empty
 description: Guidebook for the Grand Empty roleplaying game.
 discord: &discord https://discord.gg/??????????
 github: &github https://github.com/The-Grand-Empty/guidebook
 
 aux_links:
   '<i class="fab fa-discord"></i>&nbsp;Discord': *discord
+  '<i class="fas fa-sun js-toggle-dark-mode" aria-label="Set Light Mode."></i>': javascript:jtd.setTheme('light')
+  '<i class="fas fa-moon js-toggle-dark-mode" aria-label="Set Dark Mode."></i>': javascript:jtd.setTheme('dark')
 
 # Copyright Notice Footer
 footer_content: |
-  Copyright &copy; 2025 The Grand Empty, distributed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC-BY-SA-4.0</a>.
+  Copyright &copy; 2025 The Grand Empty Project, distributed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC-BY-SA-4.0</a>.
   Theme &copy 2022 just-the-docs, used under the <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license</a>.
 
 # Edit Timestamp in Footer
