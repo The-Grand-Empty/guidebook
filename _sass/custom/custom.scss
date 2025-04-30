@@ -1,0 +1,10 @@
+.site-logo {
+    background-image: url(/guidebook/assets/images/logo-#{$color-scheme}-640x128.png);
+}
+.site-title {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+li.aux-nav-list-item:has(.js-set-#{$color-scheme}-mode) {
+    display: none;
+}
