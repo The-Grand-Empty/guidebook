@@ -22,9 +22,7 @@ callouts:
     title: New
     color: green
 
-logo: /assets/images/logo-dark-640x128.png
-logo-dark: /assets/images/logo-dark-640x128.png
-logo-light: /assets/images/logo-light-640x128.png
+logo: /assets/images/logo-#{$color-scheme}-640x128.png
 favicon_ico: /assets/images/favicon-48x48.png
 
 title: The Grand Empty

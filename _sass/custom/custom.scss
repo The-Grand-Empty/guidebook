@@ -1,11 +1,6 @@
 @if variable-exists(logo-#{$color-scheme}) {
-    .site-title .site-logo {
-        width: 100%;
-        height: 100%;
-        background-image: url($logo-#{$color-scheme}) !important;
-        background-repeat: no-repeat;
-        background-position: left center;
-        background-size: contain;
+    .site-logo {
+        background-image: url(#{$logo}) !important;
     }
 }
 .site-title {
