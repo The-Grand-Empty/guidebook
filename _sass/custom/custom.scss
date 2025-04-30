@@ -2,7 +2,7 @@
     .site-logo {
         width: 100%;
         height: 100%;
-        background-image: url(logo-#{$color-scheme});
+        background-image: url($logo-#{$color-scheme});
         background-repeat: no-repeat;
         background-position: left center;
         background-size: contain;
