@@ -23,7 +23,8 @@ callouts:
     color: green
 
 
-logo: /assets/images/logo-dark-640x128.png
+logo-dark: /assets/images/logo-dark-640x128.png
+logo-light: /assets/images/logo-light-640x128.png
 favicon_ico: /assets/images/favicon-48x48.png
 
 title: The Grand Empty
@@ -33,8 +34,8 @@ github: &github https://github.com/The-Grand-Empty/guidebook
 
 aux_links:
   '<i class="fab fa-discord"></i>&nbsp;Discord': *discord
-  '<i class="fas fa-sun js-toggle-dark-mode" aria-label="Set Light Mode."></i>': javascript:jtd.setTheme('light')
-  '<i class="fas fa-moon js-toggle-dark-mode" aria-label="Set Dark Mode."></i>': javascript:jtd.setTheme('dark')
+  '<i class="fas fa-sun js-set-light-mode" aria-label="Set Light Mode."></i>': javascript:setTheme('light')
+  '<i class="fas fa-moon js-set-dark-mode" aria-label="Set Dark Mode."></i>': javascript:setTheme('dark')
 
 # Copyright Notice Footer
 footer_content: |
