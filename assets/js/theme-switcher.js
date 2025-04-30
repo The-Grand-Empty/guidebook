@@ -2,4 +2,9 @@ function setTheme(theme) {
     localStorage.setItem('theme', theme);
     jtd.setTheme(theme);
 };
-setTheme(localStorage.getItem('theme') || 'dark');
+jtd.onReady(function(){
+    let theme = localStorage.getItem('theme') || 'dark';
+    if (theme != jtd.getTheme()) {
+        jtd.setTheme(theme);
+    }
+});
