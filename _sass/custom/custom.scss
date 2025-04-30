@@ -1,7 +1,5 @@
-@if variable-exists(logo-#{$color-scheme}) {
-    .site-logo {
-        background-image: url(#{$logo}) !important;
-    }
+.site-logo {
+    background-image: url(/assets/images/logo-#{$color-scheme}-640x128.png) !important;
 }
 .site-title {
     padding-top: 0;
