@@ -5,7 +5,7 @@ parent: Introduction
 
 This community is centered around an advanced literate play-by-post roleplaying game. That is to say: A semi-improvisatory collaborative group storytelling activity, conducted principally through short story segments writers submit as part of a larger running story, in which participants have defined storytelling responsibilities centered around the perspectives and actions of specific characters.
 
-When you participate on this site, you are a writer first and foremost. This attempts to describe the set of norms and social expectations that apply to writers here -- but it's not the ultimate source of truth on what those norms and expectations are, the community itself is.
+When you participate on this site, you are a writer first and foremost. This attempts to describe the set of norms and social expectations that apply to writers here --- but it's not the ultimate source of truth on what those norms and expectations are, the community itself is.
 
 ## Staying In-Scope
 Writing is a creative exercise, and the most important creative constraint is _scope_, i.e: What is the shared story _about_? Scope changes over time as different writers introduce new themes and ideas at its frontier or abandon previously-accepted themes and ideas; and different scenes within the shared story can have different scopes. However, going too far out of scope disrespects the contributions and participation of other writers.
@@ -15,7 +15,7 @@ Our story is not about characters or events whose scenes would be needlessly ted
 ### Mindful Writing Goals
 The reasons we write can often be deeply personal. Roleplay writing can help a writer develop their writing skills in an unfamiliar genre or format, explore a special interest needed to accurately portray some detail, learn empathy for an unfamiliar viewpoint, come to terms with past trauma, or even explore a specific power fantasy or sexual kink. Personal writing goals such as these are nigh-unimpeachable, but it's important to be self-aware about what your goals are. The more personal the goal, the easier it is to lose sight of the goals themselves in favor of specific ideas you have for how to pursue them, and the harder it is to refine those ideas into a form suitable for our shared story.
 
-This community is for writers who mean to take their craft seriously and invest in active improvement. Mistakes and failures are a part of growth -- but so is taking responsibility for them and actively engaging with criticism. Not every scene needs to be a challenge, but writers are expected to actively challenge themselves with characters and scenes that push the edges of their comfort zone and skill set.
+This community is for writers who mean to take their craft seriously and invest in active improvement. Mistakes and failures are a part of growth --- but so is taking responsibility for them and actively engaging with criticism. Not every scene needs to be a challenge, but writers are expected to actively challenge themselves with characters and scenes that push the edges of their comfort zone and skill set.
 
 Writers with a history of discussing their goals frankly and engaging with criticism are more readily trusted to interpret and direct the story's scope, and are generally allowed broader latitude to write challenging ideas and take on character roles with broader potential impact.
 
@@ -29,7 +29,7 @@ Writers develop, write and maintain individual rosters of **Viewpoint Characters
 As a writer, you have almost absolute autonomy over the actions and words for your viewpoint characters, but in turn you carry final responsibility for exercising that autonomy wisely to ensure that the way you write them remains in-scope. Your interpretation of your characters is not above criticism, especially when it impacts other writers' character autonomy.
 
 #### Autonomy Does Not Mean Sovereignty
-It is not generally appropriate for a writer to write specific non-obvious character actions or dialogue for other writers' viewpoint characters, but it can be appropriate to assume an inconsequential automatic reaction -- such as reciprocating to a high-five or handshake. Even so, a skilled writer avoids explicitly stating those reactions and prefers to only imply them.
+It is not generally appropriate for a writer to write specific non-obvious character actions or dialogue for other writers' viewpoint characters, but it can be appropriate to assume an inconsequential automatic reaction --- such as reciprocating to a high-five or handshake. Even so, a skilled writer avoids explicitly stating those reactions and prefers to only imply them.
 
 #### Stories are about Failure
 Characters have self-interested goals and take actions to further those goals, but your goals as a writer are intrinsically at odds with your characters' goals.
@@ -55,7 +55,7 @@ But in general, when you write:
 
 Make meaningful choices, and describe those choices with a level of detail that allows other writers to understand them. Other writers rely on information they receive from you to play their own part. Your posts should answer the implicit questions posed by their previous posts, and pose implicit questions for them to answer.
 
-Other writers are not entitled to make meaningful choices about the actions your characters take, therefore often those implicit questions will be specifically about your character -- such as waiting for them to speak. Be wary about this, though: you still have the responsibility to make choices about other elements of the scene. Writing a character to take the obvious action or make the obvious comment does not usually amount to a meaningful choice, especially not when another writer has already implied that reaction.
+Other writers are not entitled to make meaningful choices about the actions your characters take, therefore often those implicit questions will be specifically about your character --- such as waiting for them to speak. Be wary about this, though: you still have the responsibility to make choices about other elements of the scene. Writing a character to take the obvious action or make the obvious comment does not usually amount to a meaningful choice, especially not when another writer has already implied that reaction.
 
 If another writer's character stands watch listening for footsteps, describe the sounds of your character's feet on the deck plating as they approach; and anything else about your character, so they can determine how the guard alerts, if they call "who goes there" or remain asleep or raise the alarm.
 
@@ -77,7 +77,7 @@ Ensure your character remains in a position to be affected by choices that other
 When you write superman, make sure kryptonite is readily to hand. A set of chairs should include enough for the next writer's character to take a seat. Don't let the cult roster be comprehensive, when it could have a bloodstain obscuring a few names instead! A family tree is an invitation for new long-lost cousins and heirs, and a furnished backstory should have closets just itching to open and let skeletons out.
 
 ### Physicalize
-Show, don't tell! Provide sensory details about a character's experience, and articulate the mental states and reasoning for your character's actions. Every post should include _some_ detail that goes beyond just their dialogue and actions -- tell us about your character's environment, outfit, situation, ideas, goals...
+Show, don't tell! Provide sensory details about a character's experience, and articulate the mental states and reasoning for your character's actions. Every post should include _some_ detail that goes beyond just their dialogue and actions --- tell us about your character's environment, outfit, situation, ideas, goals...
 
 Write the vase of flowers sitting on the table, the metallic taste of the recycled water, the whirrs and clanks of machinery, the glow of planetshine through the window, the blistering heat of the nearby star. Tell of how a character's clothes drift and float in microgravity, of the reassuring tyranny as centrifucal force pulls at their fatigued limbs yet coriolis force points them the way. Tell where they hope this sense of direction will lead them. Tell us what the flowers _mean!_
 
@@ -90,7 +90,7 @@ Different people have different preferences for how much they will pre-plan abou
 Both approaches are valuable and necessary for a healthy roleplay community. A skilled writer actively engages in both types of writing, rather than exclusively one or the other.
 
 ### No Secrets
-When we write, it's often artistically useful to bury the lede, engaging to write characters' attempts at deception, and entirely unavoidable to write characters who are ignorant -- but out-of-character, there are no secrets in the writing room.
+When we write, it's often artistically useful to bury the lede, engaging to write characters' attempts at deception, and entirely unavoidable to write characters who are ignorant --- but out-of-character, there are no secrets in the writing room.
 
 A skilled writer is frank and transparent about their plans, goals, intentions, and opinions. Often, those intentions are sufficiently clear from the story writing itself, but it's always appropriate to expand on them or ask questions about others' writing.
 
@@ -127,12 +127,12 @@ A plan that involves a specific character needs to be planned in collaboration w
 
 ### Always Stick to the Plan
 
-Writers may have carefully-orchestrated plans for their characters, and need other writers in a scene they are writing to help them execute those plans. Your characters or writing style may not always be a perfect fit for these plans, and it's often necessary to discuss in advance how the other writer's plans can be made to work with what you want to write. You may have alternative ideas that you think would serve the other writer's goals, so discuss them and see if they can agree -- but don't just decide that on your own; they may have other considerations you haven't the least idea about. Even when things go off the rails, try to write in a way that still helps them satisfy their same goals.
+Writers may have carefully-orchestrated plans for their characters, and need other writers in a scene they are writing to help them execute those plans. Your characters or writing style may not always be a perfect fit for these plans, and it's often necessary to discuss in advance how the other writer's plans can be made to work with what you want to write. You may have alternative ideas that you think would serve the other writer's goals, so discuss them and see if they can agree --- but don't just decide that on your own; they may have other considerations you haven't the least idea about. Even when things go off the rails, try to write in a way that still helps them satisfy their same goals.
 
 ### Never Stick to the Plan
 
 Sun tzu once wrote that no plan survives contact with other writers, or something like that. When you set up excessively elaborate plans that require specific sequences of events, you set yourself up for failure. Life is unpredictable, so are other people, and characters are not going to do or say exactly the things that you expect them to. While you might be able to get one specific boat to move the way you want, there's no use trying to command the tide.
 
-Plan for overarching themes and outcomes more than for specific moments. Don't tell other writers what their characters should do, tell them what you are trying to accomplish in the scene and let them supply how their characters can make that happen -- other writers hate being told what to do, but they love being brought in and made part of the process.
+Plan for overarching themes and outcomes more than for specific moments. Don't tell other writers what their characters should do, tell them what you are trying to accomplish in the scene and let them supply how their characters can make that happen --- other writers hate being told what to do, but they love being brought in and made part of the process.
 
 Sometimes, a plan you've made will become so far derailed that its original goal will seem or perhaps even be impossible. As a writer you should embrace this, because embedded in this is always an opportunity to write something you might never have managed on your own: now you get to write a doomed hero to a cathartic death barely short of sainthood, use their ignominy to comment on the injustice inherent in systems of power, or perhaps even invent some new *villainous* end.  
