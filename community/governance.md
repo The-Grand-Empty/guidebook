@@ -35,7 +35,7 @@ The Grand Empty Community is governed under the following objectives:
    4. **When in doubt, communicate.** Active discussion and criticism are core to this community. It's never wrong to give other members a heads-up of what you're planning or ask for their insight or permission.
 
 # Applications
-Users must apply and be approved by the community in order to become a member and gain access to its writing and meta spaces. To apply, fill out the following template and post it in {% include discord/channel.html name="apply" id="1367936341131661352" %}:
+Users must apply and be approved by the community in order to become a member and gain access to its writing and meta spaces. To apply, fill out the following template and post it in {% include discord/channel.html name="apply" id="1367936324031615106" %}:
 
 ```md
 **Name:** _Discord username, and other nicknames._
