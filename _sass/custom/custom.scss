@@ -18,3 +18,14 @@ iframe.discord-widget {
     height: 500px;
     border-radius: 7px;
 }
+.discord-channel, .discord-role {
+    @extend .btn;
+    padding: 0.3em 0.3em;
+    line-height: normal;
+    display: inline;
+    font-family: $mono-font-family;
+}
+.discord-channel .hashtag, .discord-role .atsign {
+    padding-right: 0.2em;
+//     // font-family: $mono-font-family;
+}
