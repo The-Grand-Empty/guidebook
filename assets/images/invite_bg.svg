@@ -9,9 +9,9 @@
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    nighteye="disabled"
    xml:space="preserve"
-   inkscape:export-filename="logo-640x128.png"
-   inkscape:export-xdpi="230.39999"
-   inkscape:export-ydpi="230.39999"
+   inkscape:export-filename="invite_bg-1920x1080.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -53,7 +53,8 @@
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="pt" /><svg:g
+     inkscape:document-units="pt"
+     inkscape:export-bgcolor="#00000040" /><svg:g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="unhooked-man"
