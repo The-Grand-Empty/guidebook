@@ -1,5 +1,5 @@
 ---
-title: Roleplay
+title: Guide to Roleplay
 parent: Introduction
 ---
 
