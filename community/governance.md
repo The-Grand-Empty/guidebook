@@ -82,7 +82,7 @@ We use timeouts, formal warnings, and bans as part of our enforcement processes.
 * The Grand Empty will not accept appeals on behalf of third parties. Appeal requests should be emailed to [`thegrandempty@gmail.com`](mailto:thegrandempty@gmail.com)
 
 ## Transparency and Accountability
-These guidelines help us to enforce our community's rules more effectively, but all moderation decisions are ultimately judgment calls, and our judgements are not above criticism.
+These guidelines help us to maintain our community's norms and defend its members' time and investment effectively, but all moderation decisions are ultimately judgment calls, and our judgements are not above criticism.
 
 With certain exceptions for matters with unique privacy concerns (such as harassment cases or our age verification process), discussions about the community or its members may occur only through community-auditable channels. When privileged actions are taken (e.g. approving or banning a user, issuing or retracting a formal warning), the moderator performing that action must make it clear that they are taking responsibility for its correctness and appropriateness, often by posting in {% include discord/channel.html name="audit" id="1367900617422409819" %}.
 
