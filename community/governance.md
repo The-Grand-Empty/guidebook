@@ -88,10 +88,10 @@ With certain exceptions for matters with unique privacy concerns (such as harass
 
 Nobody is above criticism; any member is welcome to raise concerns or objection in {% include discord/channel.html name="meta" id="1367900579753361408" %}, at any time, for any reason. Active hostility and rudeness is still not tolerated, but moderators are expected to recuse themselves when their own actions or writing are implicated, and must not take privileged actions on their own behalf.
 
-This community is currently run by a [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life), and the moderators he appoints at his discretion. We commit to to stepping down as and when requested to by member consensus, and can only hope that once this community reaches a size suitable for community elections, you'll finally let us rest instead of continuing to elect us.
+This community is currently run by a [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life), and the moderators they appoint at their discretion. We are committed to stepping down as and when requested by community consensus, and can only hope that once this community reaches a size suitable for community elections you'll finally let us rest instead of continuing to elect us.
 
-Banned or otherwise aggrieved members of our community are, as anyone is, welcome to take advantage of our world's open-source licensing to continue to participate with The Grand Empty in whatever successor communities they build.
+Banned or otherwise aggrieved members of our community are, as anyone else, welcome to take advantage of our world's open-source licensing to continue to participate with The Grand Empty in whatever successor communities they build.
 
 # About
-This community was founded in May 2024. These rules and principles are based on model rules adapted from the Worldbuilding Showcase discord community.
+This community was founded in May 2025. These rules and principles are based on model rules adapted from the Worldbuilding Showcase discord community.
 
