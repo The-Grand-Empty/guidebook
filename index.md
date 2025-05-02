@@ -8,3 +8,4 @@ nav_order: 10
 
 Content Pending!
 
+{% include discord/widget.html %}

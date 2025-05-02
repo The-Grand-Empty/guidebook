@@ -27,8 +27,10 @@ favicon_ico: /assets/images/favicon-48x48.png
 
 title: The Grand Empty
 description: Guidebook for the Grand Empty roleplaying game.
-discord: &discord https://discord.gg/??????????
+discord: &discord https://discord.gg/2szCr49k7b
 github: &github https://github.com/The-Grand-Empty/guidebook
+
+discord_guild: 1367900314740592702
 
 aux_links:
   '<i class="fab fa-discord"></i>&nbsp;Discord': *discord

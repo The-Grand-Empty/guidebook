@@ -10,3 +10,11 @@
 li.aux-nav-list-item:has(.js-set-#{$color-scheme}-mode) {
     display: none;
 }
+iframe.discord-widget {
+    -moz-box-shadow: 0 0 1rem #333;
+    -webkit-box-shadow: 0 0 1rem #333;
+    box-shadow: 0 0 1rem #333;
+    max-width: 350px;
+    height: 500px;
+    border-radius: 7px;
+}
