@@ -6,7 +6,7 @@ nav_order: 10
 
 # Welcome to The Grand Empty
 
-<div class="float-right">{% include discord/widget.html %}</div>
+<div class="d-none d-lg-block float-right mx-4">{% include discord/widget.html %}</div>
 
 We are an advanced-literate sci-fi horror discord roleplay writing community, focused on encouraging writers to challenge themselves to grow and develop their skills.
 
