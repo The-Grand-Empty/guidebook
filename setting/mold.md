@@ -2,12 +2,12 @@
 title: Lunar Mold
 parent: The Grand Empty
 ---
-> All I can say is that everyone's instant impression of the smell was that of spent gunpowder, not that it was 'metallic' or 'acrid'. Spent gunpowder smell probably was much more implanted in our memories than other comparable odors.
-> -- Harrison "Jack" Schmitt, Apollo 17
+> "All I can say is that everyone's instant impression of the smell was that of spent gunpowder, not that it was 'metallic' or 'acrid'. Spent gunpowder smell probably was much more implanted in our memories than other comparable odors."
+> --- [Harrison "Jack" Schmitt, Apollo 17](https://www.space.com/26932-moon-smell-apollo-lunar-aroma.html)
 
-When Apollo 11 touched down on the moon, three-and-a-half years after the soviets had landed their unmanned Luna 9, few knew what to expect from its surface. The Americans had landed their own Surveyor probes, and with this the Apollo mission planners were satisfied that such a task was possible: that there was a stable surface one could land on, and not sink endlessly into the seas of dust suggested by the results of the Luna 2 and Ranger 7-9 impact missions.
+When Apollo 11 touched down on the moon, a mere three-and-a-half years after the Soviets had landed the unmanned Luna 9, few knew what to expect from its surface. The Americans too had landed unmanned probes, the Surveyor missions, and with this the Apollo mission planners were satisfied that such a task was possible: that there was a stable surface one could land on, and not sink endlessly into the seas of dust suggested by the results of the Luna 2 and Ranger 7-9 impact missions.
 
-But when Neil Armstrong and Buzz Aldrin climbed back into their Eagle ascent stage and removed their helmets as the first earth humans in their epoch to set foot on another body, they also became the first to describe contact with extraterrestrial life.
+But when Neil Armstrong and Buzz Aldrin climbed back into their Eagle ascent stage and removed their helmets as the first Earth humans in their epoch to set foot on another body, they also became the first to make direct contact with extraterrestrial life.
 
 # Mold
 
