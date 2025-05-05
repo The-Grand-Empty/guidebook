@@ -34,7 +34,8 @@ The Grand Empty Community is governed under the following objectives:
    3. **Use victim-leading.** Even when a character's agency is compromised by mind-control or intoxication, _their_ writer, not the mind-controller's, still has final say on what they are mind-controlled to do.
    4. **When in doubt, communicate.** Active discussion and criticism are core to this community. It's never wrong to give other members a heads-up of what you're planning or ask for their insight or permission.
 
-# Applications
+# Posting
+## Applications
 Users must apply and be approved by the community in order to become a member and gain access to its writing and meta spaces. To apply, fill out the following template and post it in {% include discord/channel.html name="apply" id="1367936324031615106" %}:
 
 ```md
@@ -52,6 +53,49 @@ Once you submit your application, create a thread with your username as the thre
 Concurrently with this, a moderator with the {% include discord/role.html name="verifier" id="1367980120874287197" %} role will ping you in your application thread and request you to DM them your proof-of-age. In most cases, this means a photograph containing a hand-written note with your discord username and the current date and your government ID with all fields except your date of birth redacted.
 
 Once the the verifier has accepted your age proof, they will review the discussion, and assuming a favorable consensus they will grant you the {% include discord/role.html name="writer" id="1367941938908627187" %} role.
+
+## Roleplay Threads
+
+The channels {% include discord/channel.html name="rp-general" id="1367935861026721922" %} and {% include discord/channel.html name="rp-nsfw" id="1368623729483059312" %} are designated for roleplay threads. Top-level posts in these channels should contain only a post header; the writing itself should be done in threads attached to these posts. Use the following template for header posts:
+
+```md
+**Writers:** _@Alice; @Bob; @Claire_
+**Characters:** _Frank Arlich, Amias The Second; Elizabeth "Beth" Smith; Cudethar the Crusher_
+**Synopsis:** _1-2 sentences, describe expected events, tone, etc_
+**Content Warnings:** _arson, misgendering, assault, weapons_
+**Status:** _open/active/complete_
+```
+
+In order to make sure it's easy to find past threads and other information about a thread's writers and characters, make sure to include `@username` pings for every user involved in the list of writers, and include the full name of every character spelled exactly the same as their [roster entry](#roster) if applicable. It's also encouraged (but not required) to make the character's name a link to their catalog thread, and include links to relevant past threads and catalog entries in the synopsis.
+
+The content warnings should be a list of keyword-style tags. Prefer general but non-euphemistic terms, and name all specific categories of content that the scene's writers anticipate might be most objectionable. (This is partly an exercise to help writers stay scope-conscious, even beyond its use to others in deciding whether to engage with a thread.) Keep the content warnings up-to-date as the scene progresses; let the user who posted the heading know if there's something you think should be listed so they can edit it.
+
+The status portion should indicate `open` while a writer is looking for more writers to join and help develop their scene's premise, `active` once a story is underway, and `complete` once no further posts are expected in the thread.
+
+{: .note-title }
+> Free-For-All / Live RP Overflow Threads
+>
+> At the moment, the server only includes a single channel intended for live/FFA style roleplay, {% include discord/channel.html name="rp-ffa" id="1368990702670713083" %}. We're trying to limit the number of channels in favor of a tight signal-to-noise ratio. If there's demand, we're happy to expand the number of FFA channels and designate some of them for specific locations or topics.
+> If you want this, please let us know in {% include discord/channel.html name="meta" id="1367900579753361408" %} --- and let us know what specific locations or topics you'd like designated!
+> In the mean time, if the general FFA channel is in use, you are welcome to create threads in {% include discord/channel.html name="rp-general" id="1367935861026721922" %} to use for FFA; mark them with the status `ffa` to indicate this.
+
+## Catalogs
+As you write, you will develop characters and worldbuild elements of The Grand Empty related to the stories you write. Catalog posts, in {% include discord/channel.html name="roster" id="1367936272571695195" %} and {% include discord/channel.html name="gazeteer" id="1369009449804497011" %}, exist as a way to allow other writers to easily find info about your characters and to make your worldbuilding accessible for others to take inspiration from and potentially reuse.
+
+### Roster
+Each {% include discord/channel.html name="roster" id="1367936272571695195" %} post should be about a single character, and include the characters full name and any nicknames or aliases they are commonly referred to by. Briefly summarize the most pertinent details about the character, and include a link to an accessible copy of any character sheet. If you wish to track a character's appearances, adventures, development, or other info, you may do so in a thread on the character's roster entry.
+
+{: .note-title }
+> Proxy Posting: Tupperbox, PluralKit, etc.
+>
+> We are currently considering whether or not to add a bot to enable proxy-posting, i.e. automatically replacing specially-tagged user posts with posts that show a character-specific username and profile image.
+> There are several different Discord bots that implement this same essential concept in more or less usable ways, and many different conventions we could adopt for their use that trade off on artistic vs accessibility goals.
+> We want to make the best possible trade-offs for all concerned --- so let us know _your_ opinions in {% include discord/channel.html name="meta" id="1367900579753361408" %}!
+
+### Gazetteer
+{% include discord/channel.html name="gazetteer" id="1369009449804497011" %} posts are similar to those in {% include discord/channel.html name="roster" id="1367936272571695195" %}, but can be more general: regarding a location, group, company, technology, artifact, species, culture, classification system, or anything else you care to worldbuild.
+
+If something here gets widespread use, we'll be happy to grant you edit access to create a guidebook page about it, too!
 
 # Moderation
 The Grand Empty moderation team applies the following guidelines when moderating the community.
