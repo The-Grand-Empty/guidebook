@@ -46,13 +46,17 @@ Users must apply and be approved by the community in order to become a member an
 **Writing Samples:**  [sample name](https://rentry.co/link)
 ```
 
-You may not have very much experience with storytelling or roleplay --- that's fine! We do require members to demonstrate at bare minimum level of literacy, but even if the last serious writing you've done was your college thesis or even a high-school essay, we're happy to accept that! Please submit your writing sample using [Rentry.co](https://rentry.co/) or a similarly plain-formatted method, rather than e.g. Google Docs.
+You might _not_ have very much experience with storytelling or roleplay --- that's fine! We do require members to demonstrate at bare minimum level of literacy, but even if the last serious writing you've done was your college thesis or even a high-school essay, we're happy to accept that! Please submit your writing sample using [Rentry.co](https://rentry.co/) or a similarly plain-formatted method, rather than e.g. Google Docs.
 
 Once you submit your application, create a thread with your username as the thread title attached to that post, for moderators and other writers to use to review your application and discuss your writing with you. If there are specific goals, themes, literary techniques, worldbuilding, or anything else you think would be especially interesting to discuss, you are welcome to steer that conversation any way you like; but either way, we are looking for members interested in active discussion and who can turn a critical eye to their own writing.
 
-Concurrently with this, a moderator with the {% include discord/role.html name="verifier" id="1367980120874287197" %} role will ping you in your application thread and request you to DM them your proof-of-age. In most cases, this means a photograph containing a hand-written note with your discord username and the current date and your government ID with all fields except your date of birth redacted.
+As part of your application discussion, you need to make a statement, separate from the age field in your application post, to the effect:
 
-Once the the verifier has accepted your age proof, they will review the discussion, and assuming a favorable consensus they will grant you the {% include discord/role.html name="writer" id="1367941938908627187" %} role.
+> I certify that I am twenty-five years of age or older.
+
+Once a moderator has reviewed your application, your statement certifying your age, and the hopefully-favorable consensus in your application thread, they will grant you the {% include discord/role.html name="writer" id="1367941938908627187" %} role.
+
+If you wish to gain access to the NSFW channels, you must complete an age verification proof. Ping {% include discord/role.html name="verifier" id="1367980120874287197" %} in your application thread. A moderator with the verifier role will make contact and request that you DM them your proof-of-age. In most cases, this means a photograph containing a hand-written note with your discord username and the current date and your government ID with all fields except your date of birth redacted. Once the verifier has verified your proof, they will delete any data related to it and grant you the {% include discord/role.html name="verified" id="1369077802741272587" %} role.
 
 ## Roleplay Threads
 
