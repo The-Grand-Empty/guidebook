@@ -42,10 +42,12 @@ Users must apply and be approved by the community in order to become a member an
 **Age:** _Numeric age._
 **Experience:** _1-2 sentences, summary of past writing/rp experience._
 **Goals:** _1-2 sentences, what you hope to get out of The Grand Empty._
-**Writing Samples:** _link(s)_
+**Writing Samples:** _https://rentry.co/ link(s)_
 ```
 
-Once you submit this, create a thread attached to your application post to  review your application and discuss your writing sample. If there are specific goals, themes, literary techniques, worldbuilding, or anything else you think would be especially interesting to discuss, you are welcome to steer that conversation any way you like; but either way, we are looking for members interested in active discussion and who can turn a critical eye to their own writing.
+You may not have very much experience with storytelling or roleplay --- that's fine! We do require members to demonstrate at bare minimum level of literacy, but even if the last serious writing you've done was your college thesis or even a high-school essay, we're happy to accept that!
+
+Once you submit your application, create a thread with your username as the thread title attached to that post, for moderators and other writers to use to review your application and discuss your writing with you. If there are specific goals, themes, literary techniques, worldbuilding, or anything else you think would be especially interesting to discuss, you are welcome to steer that conversation any way you like; but either way, we are looking for members interested in active discussion and who can turn a critical eye to their own writing.
 
 Concurrently with this, a moderator with the {% include discord/role.html name="verifier" id="1367980120874287197" %} role will ping you in your application thread and request you to DM them your proof-of-age. In most cases, this means a photograph containing a hand-written note with your discord username and the current date and your government ID with all fields except your date of birth redacted.
 
