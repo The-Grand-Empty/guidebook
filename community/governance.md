@@ -39,14 +39,14 @@ The Grand Empty Community is governed under the following objectives:
 Users must apply and be approved by the community in order to become a member and gain access to its writing and meta spaces. To apply, fill out the following template and post it in {% include discord/channel.html name="apply" id="1367936324031615106" %}:
 
 ```md
-**Name:** _Discord username, and other nicknames._
-**Age:** _Numeric age._
-**Experience:** _1-2 sentences, summary of past writing/rp experience._
-**Goals:** _1-2 sentences, what you hope to get out of The Grand Empty._
-**Writing Samples:** _https://rentry.co/ link(s)_
+**Name:**  @username, other nicknames
+**Age:**  _number_
+**Experience:**  1-2 sentences, summary of past writing/rp experience.
+**Goals:**  1-2 sentences, what you hope to get out of The Grand Empty.
+**Writing Samples:**  [sample name](https://rentry.co/link)
 ```
 
-You may not have very much experience with storytelling or roleplay --- that's fine! We do require members to demonstrate at bare minimum level of literacy, but even if the last serious writing you've done was your college thesis or even a high-school essay, we're happy to accept that!
+You may not have very much experience with storytelling or roleplay --- that's fine! We do require members to demonstrate at bare minimum level of literacy, but even if the last serious writing you've done was your college thesis or even a high-school essay, we're happy to accept that! Please submit your writing sample using [Rentry.co](https://rentry.co/) or a similarly plain-formatted method, rather than e.g. Google Docs.
 
 Once you submit your application, create a thread with your username as the thread title attached to that post, for moderators and other writers to use to review your application and discuss your writing with you. If there are specific goals, themes, literary techniques, worldbuilding, or anything else you think would be especially interesting to discuss, you are welcome to steer that conversation any way you like; but either way, we are looking for members interested in active discussion and who can turn a critical eye to their own writing.
 
