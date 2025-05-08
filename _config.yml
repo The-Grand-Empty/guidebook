@@ -22,11 +22,11 @@ callouts:
     title: New
     color: green
 
-logo: /assets/images/site/logo-dark-640x128.png
+logo: /assets/images/logo-dark-640x128.png
 logo_variants:
-  light: /assets/images/site/logo-light-640x128.png
-  dark: /assets/images/site/logo-dark-640x128.png
-favicon_ico: /assets/images/site/favicon-48x48.png
+  light: /assets/images/logo-light-640x128.png
+  dark: /assets/images/logo-dark-640x128.png
+favicon_ico: /assets/images/favicon-48x48.png
 
 title: The Grand Empty
 description: Guidebook for the Grand Empty roleplaying game.
