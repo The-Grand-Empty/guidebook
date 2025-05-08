@@ -1,7 +1,7 @@
 ---
 title: Hivefolk
 parent: The Grand Empty
-order: 70
+nav_order: 70
 ---
 > ![Depiction of a Hivefolk with Wings Extended][image1]
 > Depiction of a Hivefolk with Wings Extended

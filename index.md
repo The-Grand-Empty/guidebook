@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: home
-nav_order: 10
+nav_nav_order: 10
 ---
 
 # Welcome to The Grand Empty

@@ -1,7 +1,7 @@
 ---
 title: Sociology
 parent: Hivefolk
-order: 20
+nav_order: 20
 ---
 
 ## Governance

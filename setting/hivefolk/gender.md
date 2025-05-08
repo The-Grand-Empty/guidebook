@@ -1,7 +1,7 @@
 ---
 title: Gender
 parent: Hivefolk
-order: 30
+nav_order: 30
 ---
 
 One of the central goals of this species is to explore what it means for an individual to be gender-nonconforming in a world with radically different norms that conformance is judged against.
