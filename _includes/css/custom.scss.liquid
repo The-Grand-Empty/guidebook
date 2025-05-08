@@ -1,6 +1,6 @@
-.site-logo {
-    background-image: url(/guidebook/assets/images/logo-#{$color-scheme}-640x128.png);
-}
+{% if site.logo_variants[include.color_scheme] %}
+$logo: "{{ site.logo_variants[include.color_scheme] | relative_url }}";
+{% endif %}
 .site-title {
     padding-top: 0;
     padding-bottom: 0;
@@ -27,5 +27,4 @@ iframe.discord-widget {
 }
 .discord-channel .hashtag, .discord-role .atsign {
     padding-right: 0.2em;
-//     // font-family: $mono-font-family;
 }
