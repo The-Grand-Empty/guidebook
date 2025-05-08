@@ -180,12 +180,12 @@ Other forms of sexual intercourse such as anal or oral are also possible but the
 </details>
 
 
-[image2]: /assets/articles/hivefolk/image2.png
+[image2]: {{ site.url }}/assets/articles/hivefolk/image2.png
 
-[image3]: /assets/articles/hivefolk/image3.png
+[image3]: {{ site.url }}/assets/articles/hivefolk/image3.png
 
-[image4]: /assets/articles/hivefolk/image4.png
+[image4]: {{ site.url }}/assets/articles/hivefolk/image4.png
 
-[image5]: /assets/articles/hivefolk/image5.png
+[image5]: {{ site.url }}/assets/articles/hivefolk/image5.png
 
-[image6]: /assets/articles/hivefolk/image6.png
+[image6]: {{ site.url }}/assets/articles/hivefolk/image6.png

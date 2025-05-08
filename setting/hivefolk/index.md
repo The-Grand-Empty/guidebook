@@ -46,4 +46,4 @@ Body Plan
 
 </details>
 
-[image1]: /assets/articles/hivefolk/image1.png
+[image1]: {{ site.url }}/assets/articles/hivefolk/image1.png
