@@ -1,0 +1,32 @@
+
+- default assumption: 'holes' = someone is getting screwed over
+  - complicated, million exceptions and a billion exceptions to those exceptions
+  - to say anything useful at all is to be wrong about something
+- [ ] Basics
+  - [ ] Locality
+    - [ ] Time
+    - [ ] Money
+    - [ ] Technology
+    - realism-feel
+    - things go wrong
+    - conflict-first worldbuilding
+- [ ] Kaliiko
+  - [ ] Hivefolk
+- [ ] Alexandra
+  - [ ] Caradock
+  - [ ] 
+- [ ] Rex
+- [ ] Sixta
+  - [ ] Sunadaril
+- [ ] Optix
+  - [ ] Blossom
+  - [ ] Naissance
+- [ ] Count Arnould
+- [ ] Bappa Duma
+  - [ ] SLX ???
+  - [ ] Mold
+- [ ] Anarba
+  - [ ] Paradise Station
+  - [ ] Genetic Convergence Project
+  - [ ] Marriage Markets
+
